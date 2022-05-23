@@ -1,0 +1,44 @@
+{
+  "name": "Brandan Rayton",
+  "image": "/brandan.png",
+  "profession": "System Analyst",
+  "intro": "Focused on building products that will make people's lives better. I love to learn new things and I am always open to learn new technologies.",
+  "about": "I am a tech guy that loves all tech things. I strive deeply to understand all elements of IT.",
+  "website": "https://www.raytontech.com",
+  "skills": [
+    {
+      "src": "/logos/react.svg",
+      "name": "React",
+      "link": "https://reactjs.org/"
+    },
+    {
+      "src": "/logos/typescript.svg",
+      "name": "Typescript",
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "src": "/logos/node.svg",
+      "name": "Node.JS",
+      "link": "https://nodejs.org/en/"
+    }
+  ],
+  "projects": [],
+  "testimonials": [],
+  "links": [
+    {
+      "name": "GitHub",
+      "icon": "github.svg",
+      "link": "https://github.com/BKrayton815"
+    },
+    {
+      "name": "Mail me",
+      "icon": "mail.svg",
+      "link": "mailto:rayton_brandan_itpro@outlook.com"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/brandan-rayton"
+    }
+  ]
+}
